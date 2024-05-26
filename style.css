@@ -1,4 +1,4 @@
-nav{
+header{
    background-color: crimson;
    color: aliceblue;
 }
@@ -7,4 +7,6 @@ nav{
     text-decoration: none;
 }
 
-.link li{}
+.link li{
+    list-style: none;
+}
