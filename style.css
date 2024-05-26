@@ -1,6 +1,10 @@
-.nav{
-    display:flex;
-    justify-content: space-between;
-    align-items: center;
-
+nav{
+   background-color: crimson;
+   color: aliceblue;
 }
+
+.links a{
+    text-decoration: none;
+}
+
+.link li{}
