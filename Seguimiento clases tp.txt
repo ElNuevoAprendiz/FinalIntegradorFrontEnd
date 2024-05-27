@@ -1,0 +1,7 @@
+11/4 1.02 Se Inicia el index, se arma la estructura báscica con html semantico
+ y se empieza con el desarrollo del menú en el nav.
+
+16/4 Arranca alrededor del minuto 25 se continua desarrollando el nav, se agrada icono a la derecja desde google font
+y se trabaja con boostrap para la alineación de los componentes del menu.
+
+25/4 Arranca 30.25
