@@ -1,5 +1,5 @@
 header{
-   background-color: crimson;
+    background-color: red;
    color: aliceblue;
 }
 
@@ -8,6 +8,6 @@ header{
     color: aliceblue;
 }
 
-.link li{
+.links li{
     list-style: none;
 }
