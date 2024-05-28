@@ -11,4 +11,8 @@ Salto a 43.38 por falta de tiempo para ver como hacer el registro con el modal,
 ojo para que funcione el modal no se modifica el href se agrega a continuación las propiedades
  data-bs-toggle="modal" data-bs-target="#staticBackdrop" a la etiqueta "a".
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Se modifica la propiedad data-bs-target="#stacticBackrop" (recordar que stacticBackrop es el tipo de modal que estamos usando), por data-bs-target="#stacticBackropRegistro", para relacionarlo con el tema que estamos usando el link registro de nuestro menú
+Además también se debe modicar de la misma forma el id del div que contiernen el modal a id="staticBackdropRegistro"
+
 25/4 Arranca 30.25
