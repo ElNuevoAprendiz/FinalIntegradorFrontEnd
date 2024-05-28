@@ -6,5 +6,5 @@ y se trabaja con boostrap para la alineación de los componentes del menu.
 Se agrega un anilación al icono de la izquierda con una clase linkAnimado usando una animación de la libreria 
 AnimateCSS.
 Se cambia el fondo 32.12
-
+Salto a 43.38 por falta de tiempo para ver como hacer el registro con el modal
 25/4 Arranca 30.25
