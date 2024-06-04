@@ -1,18 +1,64 @@
 el enlace 11/4 1.02 Se Inicia el index, se arma la estructura báscica con html semantico
  y se empieza con el desarrollo del menú en el nav.
 
-16/4 Arranca en el minuto 18.10, se continua desarrollando el nav, se agrada icono a la derecha 
+
+///////////////////////////////////////////////////////////////////////////////////////////
+                                        16/4 
+/////////////////////////////////////////////////////////////////////////////////////////
+Arranca en el minuto 18.10, se continua desarrollando el nav, se agrada icono a la derecha 
 desde google font y se trabaja con boostrap para la alineación de los componentes del menu.
-Se agrega un anilación al icono de la izquierda con una clase linkAnimado usando una animación 
+Se agrega un alineación al icono de la izquierda con una clase linkAnimado usando una animación 
 de la libreria AnimateCSS.
-Se cambia el fondo 32.12
+
+32.12 Se cambia el fondo, para esto se agregan dos section, banner y buscador. Luego se copia de la
+pagina index-sin-vue.html, la seccion banner  y se la pega en el index, del css la clase banner y se 
+lo copia en nuestro css (creo las carpetas css y img) y la imagen banner-bg.jpg en la carpeta img.
+
+Usa bootstrap para ubicar el texto, d-flex justify-content-center align-items-center y despues como
+el texto que da uno al lado del otro usa flex-column para indicar la direccion del texto, text-white
+para poner el texto en blanco
+
+39.50 Explica proble de centrado
+
+42. Importa una fuente desde el googlefont, colocando primero el import al inicio del css, 
+despues para usarla en el mismo css usamos la etiqueta
+body{
+    font-family: "Open Sans", sans-serif;
+}
+copiando esta referencia de la pagina de googlefont
+
+
+
 Salto a 43.38 por falta de tiempo para ver como hacer el registro con el modal, 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ojo para que funcione el modal no se modifica el href se agrega a continuación las propiedades
  data-bs-toggle="modal" data-bs-target="#staticBackdrop" a la etiqueta "a".
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Se modifica la propiedad data-bs-target="#stacticBackrop" (recordar que stacticBackrop es el tipo de modal que estamos usando), por data-bs-target="#stacticBackropRegistro", para relacionarlo con el tema que estamos usando el link registro de nuestro menú
-Además también se debe modicar de la misma forma el id del div que contiernen el modal a id="staticBackdropRegistro"
+Se modifica la propiedad data-bs-target="#stacticBackrop" (recordar que stacticBackrop es el tipo 
+de modal que estamos usando), por data-bs-target="#stacticBackropRegistro", para relacionarlo con 
+el tema que estamos usando el link registro de nuestro menú
+Además también se debe modicar de la misma forma el id del div que contiernen el modal a 
+id="staticBackdropRegistro"
+
+46 Se comienza el modal, se copia desde la pagina de bootstrap el ejemplo de static asi cuando hacemos
+click fuera de el no se cierra, se lo copia a continuaciones del header, y se lo activa por medio del
+link (46.14) copiando luego del href, el cual no modifica y lo deja vacio las siguientes propiedades
+que estaban el en boton de ejemplo que activaban el modal 
+    "data-bs-toggle="modal" data-bs-target="#staticBackdropRegistro"
+
+quedando el href asi
+        <a href=""data-bs-toggle="modal" data-bs-target="#staticBackdropRegistro">Registrarse</a>
+
+        
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+                                            18/4
+///////////////////////////////////////////////////////////////////////////////////////////////
+22:40 - Se hace un cambio en el modal
+
+La clase model-content es el que modifica lo visual del modal. 
+
 
 25/4 Arranca 30.25
