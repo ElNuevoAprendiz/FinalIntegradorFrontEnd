@@ -50,7 +50,14 @@ que estaban el en boton de ejemplo que activaban el modal
 quedando el href asi
         <a href=""data-bs-toggle="modal" data-bs-target="#staticBackdropRegistro">Registrarse</a>
 
-        
+Se lo va adaptanto cambiando el titulo y el boton cerrar.
+
+ 1.02.30 En el body del modal hacer el formulario con los campos del registro
+
+1.02.49 Se empieza a trabajar con la seccion del buscador 
+1.04.32 Se modifican los input text usando boostrap, usa floting-laber, copia el codigo desde la pagina 
+boostrap
+
 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////
