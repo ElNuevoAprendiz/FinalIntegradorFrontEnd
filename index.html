@@ -42,7 +42,8 @@
                     <li class="mx-3"><a href="" data-bs-toggle="modal"
                             data-bs-target="#staticBackdropRegistro">Registrarse</a></li>
                     <li class="mx-3">
-                        <a href="" class=" d-flex align-items-center btn btn-outline-danger">
+                        <a href="" class=" d-flex align-items-center btn btn-outline-danger" data-bs-toggle="modal"
+                            data-bs-target="#staticBackdropLogin">
                             <!-- Icono a la derecha del menu -->
                             <span class="material-symbols-outlined mx-1">
                                 login
@@ -58,7 +59,7 @@
 
     </header>
 
-    <!-- Modal -->
+    <!-- Modal Registro-->
     <div class="modal fade" id="staticBackdropRegistro" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
         aria-labelledby="staticBackdropLabel" aria-hidden="true">
         <div class="modal-dialog">
@@ -70,11 +71,13 @@
                 <div class="modal-body">
                     <form action="server/checkRegistro.html" method="post">
                         <div class="form-floating mb-3">
-                            <input type="text" class="form-control" name="nombre" id="fnombre" placeholder="nombre" required>
+                            <input type="text" class="form-control" name="nombre" id="fnombre" placeholder="nombre"
+                                required>
                             <label for="fnombre">Nombre</label>
                         </div>
                         <div class="form-floating mb-3">
-                            <input type="text" class="form-control" name="apellido" id="fape" placeholder="Apellido" required>
+                            <input type="text" class="form-control" name="apellido" id="fape" placeholder="Apellido"
+                                required>
                             <label for="fape">Apellido</label>
                         </div>
 
@@ -84,23 +87,57 @@
                             <label for="femail">Email</label>
                         </div>
                         <div class="form-floating mb-3">
-                            <input type="password" class="form-control" name="pass" id="fpas"
-                                placeholder=">Contraseña" required>
+                            <input type="password" class="form-control" name="pass" id="fpas" placeholder=">Contraseña"
+                                required>
                             <label for="fpas">Contraseña</label>
                         </div>
                         <div class="form-check mb-3">
-                            <input class="form-check-input" type="checkbox" name="okTerm" value="" id="flexCheckDefault">
+                            <input class="form-check-input" type="checkbox" name="okTerm" value=""
+                                id="flexCheckDefault">
                             <label class="form-check-label" for="flexCheckDefault">
-                              Acepto términos y condiciones
+                                Acepto términos y condiciones
                             </label>
-                          </div>
-                          <div>
+                        </div>
+                        <div>
                             <input type="submit" value="Registrarse" class="btn btn-primary">
-                          </div>
-                          
+                        </div>
+
                     </form>
                 </div>
-                
+
+            </div>
+        </div>
+    </div>
+    <!-- Modal Login-->
+    <div class="modal fade" id="staticBackdropLogin" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
+        aria-labelledby="staticBackdropLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5" id="staticBackdropLabel">Iniciar sesión</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <form action="server/checkLogin.html" method="post">
+
+                        <div class="form-floating mb-3">
+                            <input type="email" class="form-control" name="email" id="femail"
+                                placeholder="name@example.com" required>
+                            <label for="femail">Email</label>
+                        </div>
+                        <div class="form-floating mb-3">
+                            <input type="password" class="form-control" name="pass" id="fpas" placeholder=">Contraseña"
+                                required>
+                            <label for="fpas">Contraseña</label>
+                        </div>
+
+                        <div>
+                            <input type="submit" value="Iniciar" class="btn btn-primary">
+                        </div>
+
+                    </form>
+                </div>
+
             </div>
         </div>
     </div>
@@ -112,12 +149,13 @@
                 <h2>Disfruta donde quieras. Cancela cuando quieras.</h2>
                 <a href="./templates/register.html" class="btn-cac">Registrate</a>
             </div>
-            
+
         </section>
 
         <!-- Buscador -->
-        <section>
-
+        <section id="buscar">
+            <h1>¿Qué estás buscando?</h1>
+            <input type="text" name="busqueda" id="busqueda" placeholder="Buscar..." class="bg-dark text-white width 50px">
         </section>
 
         <!-- Las tendencias de hoy -->
