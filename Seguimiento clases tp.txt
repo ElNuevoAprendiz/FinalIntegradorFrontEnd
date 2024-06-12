@@ -58,7 +58,7 @@ Se lo va adaptanto cambiando el titulo y el boton cerrar.
 1.04.32 Se modifican los input text usando boostrap, usa floting-laber, copia el codigo desde la pagina 
 boostrap
 
-
+1:20:53 Se comienza con la sección los más vistos
 
 ////////////////////////////////////////////////////////////////////////////////////////////////
                                             18/4

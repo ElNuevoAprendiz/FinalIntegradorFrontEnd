@@ -21,12 +21,14 @@ header {
 
 #buscar {
     height: 350px;
+    /*
     color: white;
     background-color: black;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    */
 }
 
 .form-check {
