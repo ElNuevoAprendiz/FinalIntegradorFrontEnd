@@ -8,6 +8,8 @@ body {
 header {
     background-color: darkcyan;
     color: aliceblue;
+    position: sticky;
+    top: 0px;
 }
 
 .modal-content {

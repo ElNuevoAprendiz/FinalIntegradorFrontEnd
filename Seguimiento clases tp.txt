@@ -68,7 +68,10 @@ Ver si se puede publicar en Netlify
 
 22:40 - Se hace un cambio en el modal
 
-La clase model-content es el que modifica lo visual del modal. 
+La clase model-content es el que modifica lo visual del modal. Teniendo en cuenta estocambia los colores, 
+pero eso ya lo hicimos en el nuestro por lo cual no se modifica
 
+Luego en 26.47 luego fija el header agregando en el css en la etiqueta header la propiedad 
+sticky y la de opt 0px
 
 25/4 Arranca 30.25
