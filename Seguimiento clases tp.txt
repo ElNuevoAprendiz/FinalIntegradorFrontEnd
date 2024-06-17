@@ -74,4 +74,11 @@ pero eso ya lo hicimos en el nuestro por lo cual no se modifica
 Luego en 26.47 luego fija el header agregando en el css en la etiqueta header la propiedad 
 sticky y la de opt 0px. Luego se lo remplaza por una clase de bootstrap que hace lo mismo es stick-md-top
 
-25/4 Arranca 30.25
+29.10 empieza a analizar la grilla de las tendencias de hoy.
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////
+                                           25/4                                       
+//////////////////////////////////////////////////////////////////////////////////////////////////
+
+Arranca 30.25
