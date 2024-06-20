@@ -80,6 +80,25 @@ eliculas
 Actualiza el enlace de las imagenes a la ubicación actual.
 
 
+//////////////////////////////////////////////////////////////////////////////////////////////////
+                                        23/4
+/////////////////////////////////////////////////////////////////////////////////////////////////
+
+0.08.00 Se retoma el tp inciacndo como cambia los frentes de las peliculas.
+
+0.20.00 AProximadamente un alumno le indica que NO LE FUNCIONA EL MODAL y le explica que al copiar 
+la importacion del bootstrap (22.50) arriba a la derecha hay un menu desplagable que indica la version en la
+documentacion, que hay q verificar que version estamos importando y luego cuando copiamos el modal desde
+la documentacion que coincida la version pq sino puede que no funcione.
+Después baja a la zona de los link cdn y copia de ahi el link de los cdn que se supones q son de los
+principales
+
+0.37.04 Se retoma el desarrollo. Indica que pueden entregar el mismo trabajo con mejoras.
+
+
+
+
+
 
 //////////////////////////////////////////////////////////////////////////////////////////////////
                                            25/4                                       
