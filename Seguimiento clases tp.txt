@@ -96,12 +96,11 @@ principales
 0.37.04 Se retoma el desarrollo. Indica que pueden entregar el mismo trabajo con mejoras.
 
 
-
-
-
-
 //////////////////////////////////////////////////////////////////////////////////////////////////
                                            25/4                                       
 //////////////////////////////////////////////////////////////////////////////////////////////////
 
 Arranca 30.25
+Se trata el tema de la pate teórica de js, variable, cte, cadena de caracteres.
+El uso de alt 96 para colocar la comilla simple invertida que permite incluir en una cadena de texto
+el valor de vaiables usando ${variable}
