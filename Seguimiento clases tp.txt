@@ -104,3 +104,47 @@ Arranca 30.25
 Se trata el tema de la pate teórica de js, variable, cte, cadena de caracteres.
 El uso de alt 96 para colocar la comilla simple invertida que permite incluir en una cadena de texto
 el valor de vaiables usando ${variable}
+
+/////////////////////////////////////////////////////////////////////////////////////////////////
+                                           30/4                                       
+//////////////////////////////////////////////////////////////////////////////////////////////////
+
+En 0.11.00 habla sobre la opcion lighthouse dentro de la opcion inspeccionar del navegador que hacer un
+informe del sitio como si las imagenes son pesadas por ejemplo.
+
+0.16.00Indica por ejempo q se puede usar iloveimg para mejorar el tema de tamaño o photoshop.
+recomienda tambien usar fromato png o webpic?
+
+0.22.29 paa la dir toolsdw.netlify.app de una profe con un monton de recursos gratis como por ejemplo
+imagenes y herramientas y tutoriales.
+
+0.27.18 Habla de la opcion (deb) (DEPURACION o debuger de visual) y explica como usarlo, indicando
+como modificar el json de configurarion cuando no levanta la papgina pq p. ej esta apuntando a local
+ host (0.32.27).
+0.40.00 Se explica los operadores de asignacion y operdores logicos.
+
+0.53.00 explica el operador ternario que puede reemplazar al informe, el if con el if else anidado 
+y el switch.
+
+1.20.34 Usa el if para comparar usuario y password
+
+1.21.00 analiza el while
+
+1.26.05 Uso de parseInt() para pasar una cadena a entero
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////
+                                           2/5                                       
+//////////////////////////////////////////////////////////////////////////////////////////////////
+
+0.12.40 Explica el form
+
+0.15.08 Empieza a explicar funciones.Declara la funcion antes de usarla.
+
+0.39.17 funcion con multiples return
+
+0.45.00 funciones con valores predeterminados
+
+Comienza hablando de las funciones que reciben parametros. Ojo verificar si los parametros por mas que
+sea numeros los pase como strig y despues si se necesita hacer un cambio se use parse.
+
