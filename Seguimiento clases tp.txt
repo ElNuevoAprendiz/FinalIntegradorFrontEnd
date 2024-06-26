@@ -19,6 +19,20 @@ Aula Virtual: https://aulasvirtuales.bue.edu.ar/
 
     Contraseña: Prueba!123
 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Cosas importantes cuando trabajamos en gratis
+
+https://www.freecodecamp.org/espanol/news/git-pull-force-como-sobre-escribir-los-cambios-locales-con-git/
+
+Tutorial de Git Revert y Git Reset para principiantes | DataCamp
+https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj5qsu3q_qGAxUJL60GHZ1BDoMYABAAGgJwdg&gclid=CjwKCAjw-O6zBhASEiwAOHeGxeT2JgFz1j3gHrq3DTEV2c_XeI2ahH2vFkXb1666yJj_gEItQFpeKhoC4TUQAvD_BwE&ohost=www.google.com&cid=CAESVuD2I4vfWLIdKYpqc-qjJVT7Sdzr7JKrwiXo7cpae12mKsFwnTCZfCMw6O_-reHvPfekxQXHezUnB1EueawAXdfTu-2zDbYxXXTXQGTUB7Pif2NsK9e1&sig=AOD64_3mvh5t-eEWKBbJDw18Ddc_9kdgAg&q&adurl&ved=2ahUKEwif9b63q_qGAxWhQ7gEHeChD8oQ0Qx6BAgREAE
+
+
+fatal: remote origin already exists. me aparece este error al conectat git remote como soluciono
+https://platzi.com/discusiones/2042-prework-windows/181748-fatal-remote-origin-already-exists-me-aparece-este-error-al-conectat-git-remote-como-soluciono/
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
     /////////////////////////////////////////////////////////////////////////////////////////////
                                           11/3
     /////////////////////////////////////////////////////////////////////////////////////////////
