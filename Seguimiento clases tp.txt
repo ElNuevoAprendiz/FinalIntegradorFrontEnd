@@ -159,7 +159,7 @@ y el switch.
 
 
 /////////////////////////////////////////////////////////////////////////////////////////////////
-                                           2/5                                       
+                                                  2/5                                       
 //////////////////////////////////////////////////////////////////////////////////////////////////
 
 0.12.40 Explica el form
@@ -242,3 +242,9 @@ result=aOpMat(4,7,"sumar")
   1.12.30 Pasa la direccion de una pagina para hacer diagrama de objetos gratiuta (https://app.diagrams.net)
   1.27.21 Una compañera muestra un curso de freecodecamp español
          https://www.freecodecamp.org/espanol/news/programacion-orientada-a-objectos-en-javascript-explicado-con-ejemplos/
+
+/////////////////////////////////////////////////////////////////////////////////////////////////
+                                                  7/5                                       
+//////////////////////////////////////////////////////////////////////////////////////////////////
+
+0.10.53 Habla algo de JSON
