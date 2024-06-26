@@ -1,3 +1,28 @@
+///////////////////////////////////////////////////////////////////////////////////
+                            Info importante
+//////////////////////////////////////////////////////////////////////////////////
+
+ Meet: https://meet.google.com/hcx-bsvg-kic
+
+    Presentismo: https://docs.google.com/forms/d/e/1FAIpQLScl4ZbTE1ncTI5DP4qMiUG2P5B8Xi71sFOC2cNSElC9IGqArQ/viewform
+
+    Clases grabadas: https://www.youtube.com/playlist?list=PLLH_HXq0HWKJESyiQo44NMxs4samaJaVV
+
+    Drive: https://drive.google.com/drive/folders/1Hz1y7-K2fz1koZBPbb8L3_Xh1rbHW2mw?usp=drive_link
+
+
+Aula Virtual: https://aulasvirtuales.bue.edu.ar/
+
+    Se accede con los siguientes datos:
+
+    Usuario: DNI del estudiante
+
+    Contraseña: Prueba!123
+
+    /////////////////////////////////////////////////////////////////////////////////////////////
+                                          11/3
+    /////////////////////////////////////////////////////////////////////////////////////////////
+
 el enlace 11/4 1.02 Se Inicia el index, se arma la estructura báscica con html semantico
  y se empieza con el desarrollo del menú en el nav.
 
@@ -212,3 +237,6 @@ result=aOpMat(4,7,"sumar")
   reinicia el navegador y ejecuta todo hasta el breackpoint que pusimos.
 8)Una vez para la ejecución volvemos a presionar re y luego algunos de los botones de la barra flotante de 
   depuración como por ejemplo avanzar un paso, etc.
+
+  1.10.58 OBJETOS. Comienza la explicación 
+  1.12.30 Pasa la direccion de una pagina para hacer diagrama de objetos gratiuta (https://app.diagrams.net)
