@@ -148,3 +148,43 @@ y el switch.
 Comienza hablando de las funciones que reciben parametros. Ojo verificar si los parametros por mas que
 sea numeros los pase como strig y despues si se necesita hacer un cambio se use parse.
 
+1.07.13 Explica como se usan las funciones flecha
+
+***********************************************************************************************************
+
+Las funciones flecha tienen la forma:
+
+let nombre = variable o (variables o variables separados por comas) => operación o {grupo de operaciones}
+
+nombre es la variable que va a contener el resultado de la funcion (es tambien el nombre que se usa para 
+llamarla).
+
+Si recibe mas de un parametros esto van entre parentesis (variables), sino solo el nombre del parámetro.
+
+Si se hace una sola operación se pone directamente sino el grupo de operaciones va entre llaves como en una
+función común.
+
+Se las llama como a cualquier otra función que devuelve un resultado
+
+resultado = nombre(el o los parametros separados por comas)
+
+Ej.1)
+
+let aPotencia2 = x => x**2
+resultado = aPotencia2(4)
+
+Ej.2)
+
+let aOpMat = (a,b,op) => {
+    if (op=='sumar') {
+        return parseInt(a)+parseInt(b)
+    } else if (op=='restar') {
+        return parseInt(a)-parseInt(b)
+    } else if (op=='multiplicar') {
+        return parseInt(a)*parseInt(b)
+    } else  {
+        return parseInt(a)/parseInt(b)
+    }
+}
+
+result=aOpMat(4,7,"sumar") 
