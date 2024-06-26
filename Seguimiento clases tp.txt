@@ -240,3 +240,5 @@ result=aOpMat(4,7,"sumar")
 
   1.10.58 OBJETOS. Comienza la explicación 
   1.12.30 Pasa la direccion de una pagina para hacer diagrama de objetos gratiuta (https://app.diagrams.net)
+  1.27.21 Una compañera muestra un curso de freecodecamp español
+         https://www.freecodecamp.org/espanol/news/programacion-orientada-a-objectos-en-javascript-explicado-con-ejemplos/
