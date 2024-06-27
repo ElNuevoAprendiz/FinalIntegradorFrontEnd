@@ -262,3 +262,5 @@ result=aOpMat(4,7,"sumar")
 //////////////////////////////////////////////////////////////////////////////////////////////////
 
 0.10.53 Habla algo de JSON
+0.13.35 Continua con la explicación de oop, empezando con q es un objeto y haciendo ejemplo.
+0.39.17 Explica las Clases
