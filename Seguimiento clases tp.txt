@@ -265,3 +265,19 @@ result=aOpMat(4,7,"sumar")
 0.13.35 Continua con la explicación de oop, empezando con q es un objeto y haciendo ejemplo.
 0.39.17 Explica las Clases
 0.46.39 Explica Arrays
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////
+                                                  14/5                                       
+//////////////////////////////////////////////////////////////////////////////////////////////////
+
+En el video largo se explica fetch y como iterar y tranformar en el contenido de una tabla la
+respuesta de la api, la cual previamente se transforma en un json usando la funcion .json. despues 
+de ese json solo se va a tomar el array llamado data (que seria una propiedad del onjeto json?)
+
+Luego en el video corto se vuelve a toma este programa llamado llamadaAPI.js y se lo modifica para que
+traiga info de peliculas desde una api gratis, la info asi como la llave para poder conectarse a la 
+API la saca del programa de la profe.
+
+
+
