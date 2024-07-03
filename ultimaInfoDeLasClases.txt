@@ -12,4 +12,9 @@ Video corto
 0.25.08  Hace la opcion administrar q esta en el footer
 
 
-ultimaInfoDeLasClases.txt
+21/5 largo
+
+Se continua con el tema bases de datos
+
+0.03.58 Avisa que en discor en la parte de java dejo una guia rapida de como
+ crear una tabla de datos y otras cositas
