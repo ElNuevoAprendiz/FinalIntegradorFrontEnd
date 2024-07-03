@@ -1,0 +1,15 @@
+51.40 Retoma explicación de SQL
+
+1.22.49 explica como importa una base de datos, unos segundos antes como exportarla
+
+21/5
+
+Video corto
+
+0.05.46 Se indica cuales son las condiciones del integrado forntend
+0.10.32 HAce un ejemplo de validación con js
+
+0.25.08  Hace la opcion administrar q esta en el footer
+
+
+ultimaInfoDeLasClases.txt
