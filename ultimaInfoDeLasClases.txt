@@ -18,3 +18,9 @@ Se continua con el tema bases de datos
 
 0.03.58 Avisa que en discor en la parte de java dejo una guia rapida de como
  crear una tabla de datos y otras cositas
+
+ 23/5
+
+ 0.9.30 Hace una api ( usa la de mercado libre)
+
+ 
